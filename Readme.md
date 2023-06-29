@@ -1,1 +1,2 @@
 - Luis David Jimenez
+- Diego Juarez
